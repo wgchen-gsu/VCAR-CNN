@@ -14,4 +14,4 @@ Note: 请按你的实际视频修改 height 和 width参数
 (6)可通过提供的 comp_psnr_3im.m 计算PSNR和SSIM的增益.
 
 # TODOs
-QP=37, 32的模型参数
+目前的版本没有基于sparse-coding的预测(没有做优化, 比较耗时), 需留待对代码的优化; QP=37, 32的模型参数.
